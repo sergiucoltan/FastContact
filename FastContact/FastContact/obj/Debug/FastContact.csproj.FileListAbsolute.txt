@@ -1,0 +1,10 @@
+C:\Users\Sergiu\source\repos\FastContact\FastContact\bin\Debug\FastContact.exe.config
+C:\Users\Sergiu\source\repos\FastContact\FastContact\bin\Debug\FastContact.exe
+C:\Users\Sergiu\source\repos\FastContact\FastContact\bin\Debug\FastContact.pdb
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.csprojAssemblyReference.cache
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.FastContact.resources
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.Properties.Resources.resources
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.csproj.GenerateResource.cache
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.exe
+C:\Users\Sergiu\source\repos\FastContact\FastContact\obj\Debug\FastContact.pdb
